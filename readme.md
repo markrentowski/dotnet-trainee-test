@@ -1,5 +1,8 @@
-This is a readme.md file
+# .NET Pre-Trainee
+
+This repository contains my practical exercises and projects completed during the .NET Pre-Trainee course.
 
 ## Progress
 
-Module 0 underway
+- Module 0: Git & GitHub
+- Module 1: Not Startedgi
